@@ -7,7 +7,7 @@ A modern, intelligent cryptocurrency chat bot built with Next.js, TypeScript, an
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38bdf8)
 
-**Look at live version** ![CryptoChat](https://crypto-chat-kappa.vercel.app/)
+**Look at live version** (https://crypto-chat-kappa.vercel.app/)
 
 ## ✨ Features
 
