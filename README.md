@@ -349,7 +349,7 @@ Bitcoin (BTC), Ethereum (ETH), Cardano (ADA), Solana (SOL), Polkadot (DOT), Aval
 - Name: `Bitcoin`, `Ethereum`, `Cardano`
 - Aliases: Auto-detected and normalized
 
-## 🔮 Future Enhancements
+## 🔮 Potential Enhancements
 
 - [ ] **News Integration**: Crypto news and alerts
 - [ ] **Portfolio Analytics**: Performance tracking with enhanced charts

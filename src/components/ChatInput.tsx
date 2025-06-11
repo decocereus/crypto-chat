@@ -79,7 +79,7 @@ export function ChatInput({ onSendMessage, disabled = false }: ChatInputProps) {
             break;
           case "network":
             setError(
-              "Speech service temporarily unavailable. Please try again."
+              "Speech service temporarily unavailable. Please try a different browser (Safari, Chrome, or Edge)."
             );
             break;
           case "audio-capture":
